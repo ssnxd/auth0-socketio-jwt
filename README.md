@@ -30,7 +30,7 @@ This repo is supported and maintained by Community Developers, not Auth0. For mo
 ## Installation
 
 ```bash
-npm install socketio-jwt
+npm install @ssnxd/socketio-jwt
 ```
 
 ## Usage
